@@ -184,6 +184,6 @@ ORDER BY age, medication_rank;
 ```text
 📦 healthcare_analytics_with_SQL
  ┣ 📜 SQL_analysis_healthcare_project.sql  # Main script containing comprehensive project queries and analysis
- ┣ 📜 demographics.sql                     # Initial 
- ┣ 📜 health.sql                           # SQL queries analyzing clinical indicators and health metrics
+ ┣ 📜 demographics.sql                     # Initial demographics dataset given
+ ┣ 📜 health.sql                           # Initial health dataset given
  ┗ 📜 README.md                            # Project overview, objectives, and documentation
