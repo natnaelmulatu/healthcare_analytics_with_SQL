@@ -177,3 +177,13 @@ ORDER BY age, medication_rank;
 * **Length of Stay Clustering:** Most inpatient stays cluster tightly within specific day ranges, highlighting predictable discharge windows that can be optimized using automated bed-turnover scheduling.
 * **Procedural Load & Specialties:** High-intensity surgical and specialized departments show clear spikes in resource utilization, which can inform nurse-to-patient staffing ratios.
 * **Medication Management:** Insulin and metformin dominate diabetic treatment protocols across nearly all age brackets, making glycemic management optimization a top target for reducing readmission rates.
+
+
+## 📂 Repository Structure
+
+```text
+📦 healthcare_analytics_with_SQL
+ ┣ 📜 SQL_analysis_healthcare_project.sql  # Main script containing comprehensive project queries and analysis
+ ┣ 📜 demographics.sql                     # Initial 
+ ┣ 📜 health.sql                           # SQL queries analyzing clinical indicators and health metrics
+ ┗ 📜 README.md                            # Project overview, objectives, and documentation
