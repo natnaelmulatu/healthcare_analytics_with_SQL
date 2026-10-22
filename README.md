@@ -178,6 +178,8 @@ ORDER BY age, medication_rank;
 * **Procedural Load & Specialties:** High-intensity surgical and specialized departments show clear spikes in resource utilization, which can inform nurse-to-patient staffing ratios.
 * **Medication Management:** Insulin and metformin dominate diabetic treatment protocols across nearly all age brackets, making glycemic management optimization a top target for reducing readmission rates.
 
+---
+
 
 ## 📂 Repository Structure
 
